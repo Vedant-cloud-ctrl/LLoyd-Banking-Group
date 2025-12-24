@@ -1,10 +1,7 @@
 # Lloyd-Banking-Group 
-# Lloyd Banking: Behavioral Churn Prediction & ROI Strategy
+# Lloyd Banking: Behavioral Churn Prediction
 
 This project implements an end-to-end machine learning pipeline to predict customer churn. By moving beyond static demographics, we leverage **behavioral feature engineering** and **gradient boosting** to identify exactly why customers leave.
-
-## Executive Summary (The Pyramid Peak)
-**To stabilize revenue, the business must prioritize resolving 'Unresolved' service tickets and auditing the 'Clothing' product category.** Our model demonstrates that customer dissatisfaction in these specific areas is a far more accurate predictor of churn than age or income. Even with a modest statistical score, the model provides a **net positive ROI** by identifying high-risk, high-value segments before they exit.
 
 ---
 
