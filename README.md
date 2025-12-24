@@ -51,6 +51,6 @@ Based on the **Feature Importance** analysis, the business should take the follo
 
 ## Tech Stack
 * **Language**: Python
-* **Models**: XGBoost (Extreme Gradient Boosting)
+* **Models**: XGBoost
 * **Optimization**: RandomizedSearchCV, SMOTE
-* **Metrics**: ROC-AUC, Confusion Matrix, ROI Analysis
+* **Metrics**: ROC-AUC, Confusion Matrix
