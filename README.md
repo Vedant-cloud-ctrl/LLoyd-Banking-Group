@@ -1,7 +1,7 @@
 # Lloyd-Banking-Group 
 # Lloyd Banking: Behavioral Churn Prediction
 
-This project implements an end-to-end machine learning pipeline to predict customer churn. By moving beyond static demographics, we leverage **behavioral feature engineering** and **gradient boosting** to identify exactly why customers leave.
+This project implements an end-to-end machine learning pipeline to predict customer churn. By moving beyond static demographics, we leverage **feature engineering** and **gradient boosting** to identify exactly why customers leave.
 
 ---
 
